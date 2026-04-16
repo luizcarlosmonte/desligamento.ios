@@ -1,2 +1,2 @@
-# desligamento-totvs-ios
-Perfil para bloquear os dispositivos IOS dos desligados da TOTVS
+# desligamento-ios
+Perfil para bloquear os dispositivos IOS dos desligados
